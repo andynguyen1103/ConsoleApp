@@ -1,0 +1,16 @@
+D:\IT\C#\StudentOOP\bin\Debug\net5.0\StudentOOP.exe
+D:\IT\C#\StudentOOP\bin\Debug\net5.0\StudentOOP.deps.json
+D:\IT\C#\StudentOOP\bin\Debug\net5.0\StudentOOP.runtimeconfig.json
+D:\IT\C#\StudentOOP\bin\Debug\net5.0\StudentOOP.runtimeconfig.dev.json
+D:\IT\C#\StudentOOP\bin\Debug\net5.0\StudentOOP.dll
+D:\IT\C#\StudentOOP\bin\Debug\net5.0\ref\StudentOOP.dll
+D:\IT\C#\StudentOOP\bin\Debug\net5.0\StudentOOP.pdb
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.csproj.AssemblyReference.cache
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.AssemblyInfoInputs.cache
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.AssemblyInfo.cs
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.csproj.CoreCompileInputs.cache
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.dll
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\ref\StudentOOP.dll
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.pdb
+D:\IT\C#\StudentOOP\obj\Debug\net5.0\StudentOOP.genruntimeconfig.cache
